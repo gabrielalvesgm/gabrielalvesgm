@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Manguito Delivery](son)
 
-- 🌱 I’m currently learning **Python, SQL, JavaScript**
+- 🌱 I’m currently learning **Java, SpringWeb, Python, SQL**
 
-- 👯 I’m looking to collaborate on **Python Projects**
+- 👯 I’m looking to collaborate on **Java and Python Projects**
 
 - 📫 How to reach me **lgabrielalvesgm@gmail.com**
 
