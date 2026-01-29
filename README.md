@@ -2,11 +2,11 @@
 <h1 align="center">my name is Gabriel Alves</h1>
 <h2 align="center">an Software Developer, focused in backend!</h2>
 
-- 🔭 I’m currently working on [Manguito Delivery](son)
+- 🔭 I’m currently working on [TRIBUTUS INFORMÁTICA LTDA](son)
 
 - 🌱 I’m currently learning **Java, SpringWeb, Python, SQL**
 
-- 👯 I’m looking to collaborate on **Java and Python Projects**
+- 👯 I’m looking to collaborate on **Java and SpringBoot Projects**
 
 - 📫 How to reach me **lgabrielalvesgm@gmail.com**
 
