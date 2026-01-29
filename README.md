@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [TRIBUTUS INFORMÁTICA LTDA](son)
 
-- 🌱 I’m currently learning **Java, SpringWeb, Python, SQL**
+- 🌱 I’m currently learning **Java, SpringBoot and SQL**
 
 - 👯 I’m looking to collaborate on **Java and SpringBoot Projects**
 
