@@ -1,6 +1,6 @@
 <h1 align="center">Hello! Welcome!</h1>
 <h1 align="center">my name is Gabriel Alves</h1>
-<h2 align="center">an Software Developer, focused in backend!</h2>
+<h2 align="center">a Software Developer, focused in backend!</h2>
 
 - 🔭 I’m currently working on [TRIBUTUS INFORMÁTICA LTDA](son)
 
